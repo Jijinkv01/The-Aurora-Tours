@@ -1,0 +1,19 @@
+.c-item{
+    height: 680px;
+
+}
+
+.c-img{
+    height: 100%;
+   object-fit: cover;
+   filter: brightness(0.5);
+    
+}
+.overview{
+    height: 120px;
+    background-color: #d3dae1;
+}
+
+span{
+    padding: 15px   ;
+}
